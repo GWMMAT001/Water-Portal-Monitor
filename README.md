@@ -1,0 +1,2 @@
+# Water-Portal-Monitor
+To solve the water drought issue, an online geoportal needs to be implemented to assist the  Department of Water and Sanitation. The systems will allow the municipality, stakeholders,  service providers and the general public to have an excess to the system remotely. This will  save time and costs. The department of Water and sanitation will be able to constantly monitor and update the system online.
